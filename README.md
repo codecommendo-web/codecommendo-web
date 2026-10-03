@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Code Commando
+# Code Commando
 
 ### Votre Unité Numérique Offensive
 
@@ -94,9 +94,9 @@ Comme une unité d'élite, nous intervenons avec précision : de l'idée au dép
 Vous avez un projet ? Contactez-nous :
 
 - 📘 **Facebook :** [CodeCommendo](https://facebook.com/CodeCommendo)
-- 📧 **E-mail :** votre-email@exemple.com
-- 🌍 **Site web :** www.votre-site.com
-- 📍 **Localisation :** Tunisie
+- 📧 **E-mail :** codecommendo@gmail.com
+- 🌍 **Site web :** 
+- 📍 **Localisation :** Sidi Bouzid
 
 <div align="center">
 
